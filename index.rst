@@ -4,13 +4,13 @@ Documentação de parametrizações
 ==================================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 1
    :caption: Geral
 
    Readme.rst
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 1
    :numbered:
    :caption: Equipamentos
 
@@ -18,7 +18,7 @@ Documentação de parametrizações
    
    
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 1
    :caption: Tintas
 
    Tintas/TipoTintas.rst
