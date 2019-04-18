@@ -19,7 +19,7 @@ O chiller têm inversor.
 
 .. Important:: Têm inversor ciclo mas tem que estar no modo chiller.
 
-.. Note:: A palavra pass é ´´0000´´.
+.. Note:: A palavra pass é ``0000``.
 
 EDA: Edifício Loja EDA 
 ---------------------------
@@ -29,10 +29,10 @@ B6 (menu)
 Aeroporto Santa Maria
 ---------------------------
 
-O Chiller deverá estar em ´´OFF´´ 
+O Chiller deverá estar em ``OFF`` 
 
 
-.. Note:: A palavra pass é ´´1234´´. 
+.. Note:: A palavra pass é ``1234``. 
 
 C. Geral Depósitos - PDL 
 ---------------------------
@@ -44,7 +44,7 @@ Modo ciclo máqina em OFF - Enter.Enter
 1 = Calor 
 0 = Frio
 
-.. Note:: A palavra pass é ´´1234´´. 
+.. Note:: A palavra pass é ``1234``. 
 
 
 VRV's
@@ -70,7 +70,7 @@ Nível 3: 121
 NAV PDL 
 ---------------------------
 
-.. Note:: A palavra pass é ´´5625´´. 
+.. Note:: A palavra pass é ``5625``. 
 
 ESA
 ---------------------------
