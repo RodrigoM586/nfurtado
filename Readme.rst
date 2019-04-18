@@ -3,25 +3,25 @@
 Resumo
 ********************************************
 	
-O objetivo desta página é documentar todos os processos do dia-a-dia utilizamos na SEGMA, tendo o príncipal intuito normalizar, uniformizar e agilizar o processo de gestão da informação.
+O objetivo desta página é documentar todas as parametrizações de diferentes tipos de equipamento, no âmbito de manutenções.
 
   .. tip:: Através do painel lateral esquerdo é possível procurar, 
-			consoante o departamento e tópico, um assunto específico. 
+			consoante o o tipo de equipamento, instalação de cliente ou parametrização genêrica.
 		
 .. _readthedocs.org: http://www.readthedocs.org
 
 Estrutura
 ==========
 
-Este documento foi estruturado por departamentos:
+Este documento foi estruturado da seguinte forma:
 
--  **Departamento de Suporte**;
+-  **Tipo de Equipamentos**;
   
-	.. note:: Pretende documentar todas as operações realizadas, pelo departamento de Suporte, em SAP: ERP, desde a criação de PEP's, de pedidos de compra e download de custos para upload em SQL. 
+	.. note:: Pretende documentar as parametrizações por tipo de equipamento e local de instalação. 
 
--  **Departamento Técnico**;
+-  **Tintas**;
   
-	 .. note:: Pretende documentar e explicar os vários processos e operações realizadas pelo departamento técnico. 
+	 .. note:: Pretende documentar a tinta a aplicar consoante o tipo de equipamento / instalação. 
 
 
 Contribuição

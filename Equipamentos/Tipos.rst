@@ -1,46 +1,89 @@
-*********************
-Gestão de Equipamentos
-*********************
+***********************
+Tipos de Equipamentos
+***********************
 
-Esta secção pretende documentar o processo de gestão de equipamentos e respetiva sala de equipamentos.
+Esta secção pretende documentar as parametrizações por tipo de equipamento e local de instalação. 
 
-Workflow Sala Equipamentos
+Chiller's
 ==============================
 
-Todo o movimento de material na Sala de Equipamentos, deverá seguir o seguinte workflow procedimental, sendo registado através da base de dados.
+Genêrico: Carrier
+---------------------------
 
-.. image:: img/Diagrama_SalaEquipamentos.jpeg	
+"Menu 0" - Enter - "Menu 4" - Enter
+
+EDA: Administração
+---------------------------
+
+O chiller têm inversor. 
+
+.. Important:: Têm inversor ciclo mas tem que estar no modo chiller.
+
+.. Note:: A palavra pass é ´´0000´´.
+
+EDA: Edifício Loja EDA 
+---------------------------
+ 
+B6 (menu)
+
+Aeroporto Santa Maria
+---------------------------
+
+O Chiller deverá estar em ´´OFF´´ 
 
 
-Base de Dados
-==============================
+.. Note:: A palavra pass é ´´1234´´. 
 
-A seguinte secção pretende documentar o registo e gestão de equipamentos na base de dados. 
+C. Geral Depósitos - PDL 
+---------------------------
+
+Parametrização: Código 11 _ _ Enter Enter 
+
+Modo ciclo máqina em OFF - Enter.Enter
+
+1 = Calor 
+0 = Frio
+
+.. Note:: A palavra pass é ´´1234´´. 
 
 Registo novo equipamento
 ---------------------------
 
-Para registar um novo equipamento deverá aceder ao separador :guilabel:`Equipamentos`, na base de dados de suporte, e clicar em :guilabel:`Adic. Novo Equip.` sendo necessário o preenchimento do seguinte formulário:
-
-.. image:: img/novoEquipamento.PNG
-
-.. Note:: Os equipamentos são classicados através de dois tipos, ``EMM`` ou ``ESEG``. 
-
-		``EMM``: Equipamentos de Medição e Monitorização.
-
-		``ESEG``: Equipamentos Controlador pela sua afetação.
-
-Movimentação
+Registo novo equipamento
 ---------------------------
 
-Qualquer saída ou entrada de um equipamento, na Sala de Equipamentos, deverá ter um registo na base de dados. Para tal, deverá ser preenchida a tabela de ``Atribuições`` do respetivo equipamento, conforme exemplificado na imagem em anexo.
 
-.. image:: img/movimentoEquip.PNG	
-
-.. Note:: A primeira linha corresponde sempre ao último movimento do equipamento. 
-
-			As colunas :guilabel:`Entrada` e :guilabel:`Saída` deverão estar sempre preenchidas, quando o registo daquele movimento está concluído.
+.. image:: img/Diagrama_SalaEquipamentos.jpeg	
 
 
+VRV's
+==============================
 
+EDA: SOGEO
+---------------------------
 
+.. Note:: Têm inversor ciclo dentro do VRV.
+
+CLOSE CONTROL
+==============================
+
+Equipamento: Emerson
+---------------------------
+
+Nível 2: 501 -> 502 
+
+Nível 3: 221
+
+Nível 3: 121
+
+NAV PDL 
+---------------------------
+
+.. Note:: A palavra pass é ´´5625´´. 
+
+ESA
+---------------------------
+
+Oficina sistema 2 máquina 1. 
+
+.. Note:: ESA Bluebox o código é ``200``.

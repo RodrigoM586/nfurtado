@@ -15,8 +15,7 @@ Documentação de parametrizações
    :caption: Equipamentos
 
    Equipamentos/Tipos.rst
-
-
+   
    
 .. toctree::
    :maxdepth: 1
