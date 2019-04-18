@@ -16,15 +16,13 @@ import sys
 import os
 
 sys.path.append(os.path.abspath('..'))
-sys.path.append(os.path.abspath('./Navia/'))
-sys.path.append(os.path.abspath('./Suporte/'))
-sys.path.append(os.path.abspath('./Tecnica/'))
-sys.path.append(os.path.abspath('./Suporte/img/'))
+sys.path.append(os.path.abspath('./Equipamentos/'))
+sys.path.append(os.path.abspath('./Tintas/'))
 # -- Project information -----------------------------------------------------
 
 
 
-project = 'SegmaDocumentacao'
+project = 'Documentação Nuno'
 copyright = '2019, Rodrigo Rocha'
 author = 'Rodrigo Rocha'
 
@@ -129,7 +127,7 @@ html_theme_options = {
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = "_static/logo_horiz_small.png"
+#html_logo = "_static/logo_horiz_small.png"
 
 # -- Options for HTMLHelp output ---------------------------------------------
 

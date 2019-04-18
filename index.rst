@@ -1,6 +1,6 @@
 .. include:: Readme.rst
 
-SEGMA | Documentação de Processos
+Documentação de parametrizações
 ==================================
 
 .. toctree::
@@ -12,28 +12,17 @@ SEGMA | Documentação de Processos
 .. toctree::
    :maxdepth: 1
    :numbered:
-   :caption: Departamento Suporte
+   :caption: Equipamentos
 
-   Suporte/SapPEP.rst
-   Suporte/SapPedidos.rst
-   Suporte/SupContas.rst
-   Suporte/SapExportarDados.rst
-   Suporte/SapRelatorios.rst
-   Suporte/SupGestEquip.rst
-   Suporte/SupGestFerias.rst
+   Equipamentos/Tipos.rst
+
 
    
 .. toctree::
    :maxdepth: 1
-   :caption: Departamento Técnico
+   :caption: Tintas
 
-   Tecnica/OrdemServico.rst
-   Tecnica/ReqCompra.rst
-   Tecnica/Obras.rst
-   Tecnica/Armazem.rst
-   Tecnica/Manutencao.rst
-   Tecnica/Navia.rst
-   Tecnica/SistemasIntrusao.rst
-   
+   Tintas/TipoTintas.rst
+
    
 

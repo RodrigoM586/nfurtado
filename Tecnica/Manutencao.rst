@@ -1,5 +1,0 @@
-***************
-Manutenção
-***************
-
-Em desenvolvimento....
