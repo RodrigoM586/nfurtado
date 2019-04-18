@@ -117,8 +117,8 @@ html_theme_options = {
     'style_external_links': False,
     'vcs_pageview_mode': '',
     # Toc options
-    'collapse_navigation': False,
-    'sticky_navigation': False,
+    'collapse_navigation': True,
+    'sticky_navigation': True,
     'navigation_depth': 3,
     'includehidden': True,
     'titles_only': False
