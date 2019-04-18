@@ -6,7 +6,3 @@ Armazém
 
 Em desenvolvimento...
 
-Workflow
-=================
-
-.. image:: img/diagrama_compras.jpeg
