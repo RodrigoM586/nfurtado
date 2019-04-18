@@ -46,15 +46,6 @@ Modo ciclo máqina em OFF - Enter.Enter
 
 .. Note:: A palavra pass é ´´1234´´. 
 
-Registo novo equipamento
----------------------------
-
-Registo novo equipamento
----------------------------
-
-
-.. image:: img/Diagrama_SalaEquipamentos.jpeg	
-
 
 VRV's
 ==============================
